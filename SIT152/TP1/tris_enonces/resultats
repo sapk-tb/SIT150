@@ -1,0 +1,721 @@
+../GroupeA/f1.a.100.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri selection de 100 entiers
+	  nombre de comparaisons = 4950
+	  nombre de copies       = 649
+	  nombre d'échanges      = 91
+
+selection
+100
+4950
+649
+91
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri insertion de 100 entiers
+	  nombre de comparaisons = 2675
+	  nombre de copies       = 2774
+	  nombre d'échanges      = 0
+
+insertion
+100
+2675
+2774
+0
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri rapide de 100 entiers
+	  nombre de comparaisons = 1481
+	  nombre de copies       = 2745
+	  nombre d'échanges      = 170
+
+rapide
+100
+1481
+2745
+170
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri bulle naïf de 100 entiers
+	  nombre de comparaisons = 4949
+	  nombre de copies       = 7728
+	  nombre d'échanges      = 2576
+
+bulle naïf
+100
+4949
+7728
+2576
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri bulle bool de 100 entiers
+	  nombre de comparaisons = 4940
+	  nombre de copies       = 7728
+	  nombre d'échanges      = 2576
+
+bulle bool
+100
+4940
+7728
+2576
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.100.txt
+Analyse de la complexite du tri bulle opt de 100 entiers
+	  nombre de comparaisons = 4896
+	  nombre de copies       = 7728
+	  nombre d'échanges      = 2576
+
+bulle opt
+100
+4896
+7728
+2576
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+../GroupeA/f1.a.500.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri selection de 500 entiers
+	  nombre de comparaisons = 124750
+	  nombre de copies       = 3789
+	  nombre d'échanges      = 489
+
+selection
+500
+124750
+3789
+489
+
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri insertion de 500 entiers
+	  nombre de comparaisons = 60190
+	  nombre de copies       = 60689
+	  nombre d'échanges      = 0
+
+insertion
+500
+60190
+60689
+0
+
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri rapide de 500 entiers
+	  nombre de comparaisons = 9696
+	  nombre de copies       = 32373
+	  nombre d'échanges      = 1320
+
+rapide
+500
+9696
+32373
+1320
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri bulle naïf de 500 entiers
+	  nombre de comparaisons = 124749
+	  nombre de copies       = 179073
+	  nombre d'échanges      = 59691
+
+bulle naïf
+500
+124749
+179073
+59691
+
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri bulle bool de 500 entiers
+	  nombre de comparaisons = 124120
+	  nombre de copies       = 179073
+	  nombre d'échanges      = 59691
+
+bulle bool
+500
+124120
+179073
+59691
+
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.500.txt
+Analyse de la complexite du tri bulle opt de 500 entiers
+	  nombre de comparaisons = 122533
+	  nombre de copies       = 179073
+	  nombre d'échanges      = 59691
+
+bulle opt
+500
+122533
+179073
+59691
+
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+../GroupeA/f1.a.1000.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri selection de 1000 entiers
+	  nombre de comparaisons = 499500
+	  nombre de copies       = 8042
+	  nombre d'échanges      = 987
+
+selection
+1000
+499500
+8042
+987
+
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri insertion de 1000 entiers
+	  nombre de comparaisons = 250113
+	  nombre de copies       = 251112
+	  nombre d'échanges      = 0
+
+insertion
+1000
+250113
+251112
+0
+
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri rapide de 1000 entiers
+	  nombre de comparaisons = 19853
+	  nombre de copies       = 71997
+	  nombre d'échanges      = 3122
+
+rapide
+1000
+19853
+71997
+3122
+
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri bulle naïf de 1000 entiers
+	  nombre de comparaisons = 499499
+	  nombre de copies       = 747342
+	  nombre d'échanges      = 249114
+
+bulle naïf
+1000
+499499
+747342
+249114
+
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri bulle bool de 1000 entiers
+	  nombre de comparaisons = 497847
+	  nombre de copies       = 747342
+	  nombre d'échanges      = 249114
+
+bulle bool
+1000
+497847
+747342
+249114
+
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.1000.txt
+Analyse de la complexite du tri bulle opt de 1000 entiers
+	  nombre de comparaisons = 494862
+	  nombre de copies       = 747342
+	  nombre d'échanges      = 249114
+
+bulle opt
+1000
+494862
+747342
+249114
+
+
+real	0m0.011s
+user	0m0.011s
+sys	0m0.000s
+../GroupeA/f1.a.1100.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri selection de 1100 entiers
+	  nombre de comparaisons = 604450
+	  nombre de copies       = 8820
+	  nombre d'échanges      = 1082
+
+selection
+1100
+604450
+8820
+1082
+
+
+real	0m0.005s
+user	0m0.005s
+sys	0m0.000s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri insertion de 1100 entiers
+	  nombre de comparaisons = 303055
+	  nombre de copies       = 304154
+	  nombre d'échanges      = 0
+
+insertion
+1100
+303055
+304154
+0
+
+
+real	0m0.005s
+user	0m0.005s
+sys	0m0.000s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri rapide de 1100 entiers
+	  nombre de comparaisons = 22254
+	  nombre de copies       = 83331
+	  nombre d'échanges      = 3474
+
+rapide
+1100
+22254
+83331
+3474
+
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri bulle naïf de 1100 entiers
+	  nombre de comparaisons = 604449
+	  nombre de copies       = 905868
+	  nombre d'échanges      = 301956
+
+bulle naïf
+1100
+604449
+905868
+301956
+
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.000s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri bulle bool de 1100 entiers
+	  nombre de comparaisons = 602797
+	  nombre de copies       = 905868
+	  nombre d'échanges      = 301956
+
+bulle bool
+1100
+602797
+905868
+301956
+
+
+real	0m0.014s
+user	0m0.013s
+sys	0m0.000s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.1100.txt
+Analyse de la complexite du tri bulle opt de 1100 entiers
+	  nombre de comparaisons = 599602
+	  nombre de copies       = 905868
+	  nombre d'échanges      = 301956
+
+bulle opt
+1100
+599602
+905868
+301956
+
+
+real	0m0.013s
+user	0m0.013s
+sys	0m0.000s
+../GroupeA/f1.a.5000.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri selection de 5000 entiers
+	  nombre de comparaisons = 12497500
+	  nombre de copies       = 40151
+	  nombre d'échanges      = 4933
+
+selection
+5000
+12497500
+40151
+4933
+
+
+real	0m0.077s
+user	0m0.077s
+sys	0m0.000s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri insertion de 5000 entiers
+	  nombre de comparaisons = 6239779
+	  nombre de copies       = 6244778
+	  nombre d'échanges      = 0
+
+insertion
+5000
+6239779
+6244778
+0
+
+
+real	0m0.074s
+user	0m0.070s
+sys	0m0.004s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri rapide de 5000 entiers
+	  nombre de comparaisons = 117836
+	  nombre de copies       = 603453
+	  nombre d'échanges      = 20946
+
+rapide
+5000
+117836
+603453
+20946
+
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri bulle naïf de 5000 entiers
+	  nombre de comparaisons = 12497499
+	  nombre de copies       = 18704340
+	  nombre d'échanges      = 6234780
+
+bulle naïf
+5000
+12497499
+18704340
+6234780
+
+
+real	0m0.245s
+user	0m0.245s
+sys	0m0.000s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri bulle bool de 5000 entiers
+	  nombre de comparaisons = 12471394
+	  nombre de copies       = 18704340
+	  nombre d'échanges      = 6234780
+
+bulle bool
+5000
+12471394
+18704340
+6234780
+
+
+real	0m0.252s
+user	0m0.252s
+sys	0m0.000s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.5000.txt
+Analyse de la complexite du tri bulle opt de 5000 entiers
+	  nombre de comparaisons = 12454619
+	  nombre de copies       = 18704340
+	  nombre d'échanges      = 6234780
+
+bulle opt
+5000
+12454619
+18704340
+6234780
+
+
+real	0m0.249s
+user	0m0.245s
+sys	0m0.004s
+../GroupeA/f1.a.100000.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri selection de 100000 entiers
+	  nombre de comparaisons = 4999950000
+	  nombre de copies       = 1385745
+	  nombre d'échanges      = 99984
+
+selection
+100000
+4999950000
+1385745
+99984
+
+
+real	0m29.911s
+user	0m29.905s
+sys	0m0.004s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri insertion de 100000 entiers
+	  nombre de comparaisons = 2497342665
+	  nombre de copies       = 2497442664
+	  nombre d'échanges      = 0
+
+insertion
+100000
+2497342665
+2497442664
+0
+
+
+real	0m27.074s
+user	0m27.072s
+sys	0m0.000s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri rapide de 100000 entiers
+	  nombre de comparaisons = 3312853
+	  nombre de copies       = 17017398
+	  nombre d'échanges      = 398483
+
+rapide
+100000
+3312853
+17017398
+398483
+
+
+real	0m0.074s
+user	0m0.074s
+sys	0m0.000s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri bulle naïf de 100000 entiers
+	  nombre de comparaisons = 4999949999
+	  nombre de copies       = 7491727998
+	  nombre d'échanges      = 2497242666
+
+bulle naïf
+100000
+4999949999
+7491727998
+2497242666
+
+
+real	1m37.490s
+user	1m37.458s
+sys	0m0.024s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri bulle bool de 100000 entiers
+	  nombre de comparaisons = 4999949999
+	  nombre de copies       = 7491727998
+	  nombre d'échanges      = 2497242666
+
+bulle bool
+100000
+4999949999
+7491727998
+2497242666
+
+
+real	1m39.580s
+user	1m39.566s
+sys	0m0.008s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.100000.txt
+Analyse de la complexite du tri bulle opt de 100000 entiers
+	  nombre de comparaisons = 4999352769
+	  nombre de copies       = 7491727998
+	  nombre d'échanges      = 2497242666
+
+bulle opt
+100000
+4999352769
+7491727998
+2497242666
+
+
+real	1m38.626s
+user	1m38.597s
+sys	0m0.020s
+../GroupeA/f1.a.1000000.txt
+selection
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri selection de 1000000 entiers
+	  nombre de comparaisons = 499999500000
+	  nombre de copies       = 16159693
+	  nombre d'échanges      = 999985
+
+selection
+1000000
+499999500000
+16159693
+999985
+
+
+real	49m48.188s
+user	49m46.864s
+sys	0m1.036s
+insertion
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri insertion de 1000000 entiers
+	  nombre de comparaisons = 249880239402
+	  nombre de copies       = 249881239401
+	  nombre d'échanges      = 0
+
+insertion
+1000000
+249880239402
+249881239401
+0
+
+
+real	42m6.234s
+user	42m4.712s
+sys	0m1.260s
+rapide
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri rapide de 1000000 entiers
+	  nombre de comparaisons = 38823782
+	  nombre de copies       = 235860300
+	  nombre d'échanges      = 4793454
+
+rapide
+1000000
+38823782
+235860300
+4793454
+
+
+real	0m0.827s
+user	0m0.803s
+sys	0m0.008s
+bulle_naif
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri bulle naïf de 1000000 entiers
+	  nombre de comparaisons = 499999499999
+	  nombre de copies       = 749637718209
+	  nombre d'échanges      = 249879239403
+
+bulle naïf
+1000000
+499999499999
+749637718209
+249879239403
+
+
+real	162m27.951s
+user	162m24.980s
+sys	0m2.264s
+bulle_bool
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri bulle bool de 1000000 entiers
+	  nombre de comparaisons = 499999499999
+	  nombre de copies       = 749637718209
+	  nombre d'échanges      = 249879239403
+
+bulle bool
+1000000
+499999499999
+749637718209
+249879239403
+
+
+real	165m59.186s
+user	165m57.877s
+sys	0m0.804s
+bulle_opt
+Tableau initial lu dans ../GroupeA/f1.a.1000000.txt
+Analyse de la complexite du tri bulle opt de 1000000 entiers
+	  nombre de comparaisons = 499991104982
+	  nombre de copies       = 749637718209
+	  nombre d'échanges      = 249879239403
+
+bulle opt
+1000000
+499991104982
+749637718209
+249879239403
+
+
+real	164m31.340s
+user	164m28.013s
+sys	0m2.356s
